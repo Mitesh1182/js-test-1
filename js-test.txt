@@ -1,0 +1,52 @@
+ans -1:
+one property's use multiple time, that time use function.
+
+ans -2:
+one line of code that is statement.
+
+ans -3:
+any declire statement multipale time display that time use to loop.
+for(i=0 i>=10 i=1){
+}
+
+
+ans -4:
+variable is a container becuse that store value's.
+
+ans -5:
+
+
+
+ans -6:
+tow type of data types.
+
+1) premitive data types:
+
+1.booleans
+2.NaN
+3.bigint
+4.null
+5.string
+6.symble
+7.undefine
+
+
+2) special data types:
+
+1.object
+
+ans -7:
+
+1.type of
+2.null
+
+ans -8:
+function joy(){
+}
+
+
+ans -9:
+grtelimentbyclassname that write any define class that statement emplimente java scrip.
+
+ans -10:
+var obj(){}
